@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body{
+  text-align:center
+}
+
+sub_title{
+  border-width:thick;
+  border-style:solid;
+}
